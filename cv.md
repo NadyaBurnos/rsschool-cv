@@ -1,4 +1,4 @@
-![Ava](/img/photo.jpg "Its Me")
+
 # Nadya Burnos  
 Beginner Software Engineer
 
