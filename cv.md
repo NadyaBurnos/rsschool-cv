@@ -1,7 +1,15 @@
-#Nadya Burnos
+# Nadya Burnos  
 Beginner Software Engineer
 ******************************************
-##Education
-Novosibirsk State Technical University (NETI)
+## Contacts
+* Phone: 89001234567
+* Location: Novosibirsk, Russia
+* Email: tosiko191503@gmail.com
+* Discort: nadyaburnos
+
+## Education  
+Novosibirsk State Technical University (NETI)  
 Bachelor Degree (2016-2020)
 ******************************************
+
+
