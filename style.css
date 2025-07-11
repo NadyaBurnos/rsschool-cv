@@ -1,4 +1,62 @@
 body {
-    color: red;
+    color: rgb(0, 0, 0);
     text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.myPhoto {
+    width: 200px;
+    height: 200px;
+    margin-right: 100px;
+}
+
+.name {
+    font: bold 34px Times, Times New Roman, serif;
+}
+
+hr {
+    width: 300px;
+}
+
+.me {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 201, 228, 0.5);
+    height: 220px;
+    width: 1000px;
+}
+
+.info {
+    width: 500px;
+    background: rgb(255, 233, 244, 0.5);
+    margin-right: 100px;
+    text-align: left;
+    font-size: 24px;
+    
+
+}
+
+.list {
+    list-style-type: none;
+    font-weight: 700;
+    border-left: 5px solid black;
+}
+main {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    display: grid;
+    grid-template-columns: 200px 500px;
+    grid-area: "";
+}
+.titleList {
+    padding-bottom: 20px;
+}
+.plist {
+    padding-bottom: 5px;
 }
