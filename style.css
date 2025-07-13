@@ -1,0 +1,86 @@
+body {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.myPhoto {
+    width: 200px;
+    height: 200px;
+    margin-right: 100px;
+}
+
+.name {
+    font: bold 34px Times, Times New Roman, serif;
+}
+
+hr {
+    width: 300px;
+}
+
+.me {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 201, 228, 0.5);
+    height: 220px;
+    width: 1000px;
+}
+
+.info {
+    width: 918px;
+    background: rgb(255, 233, 244, 0.5);
+    text-align: left;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    padding-right: 10px;
+
+}
+
+.list {
+    list-style-type: none;
+    font-weight: 700;
+    border-left: 5px solid rgb(115, 30, 79);
+}
+main {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.titleList {
+    padding-bottom: 20px;
+}
+.plist {
+    padding-bottom: 5px;
+}
+.codeprim {
+    font-size: 24px;
+    border: 1px solid rgb(115, 30, 79);
+    width: 400px;
+    background-color: rgb(115, 30, 79, 0.1);
+}
+h2 {
+    font-size: 28px;
+    color: rgb(115, 30, 79);
+}
+.offer {
+    text-indent: 30px;
+}
+.links {
+    background-color: rgb(115, 30, 79, 0.5);
+    width: 925px;
+}
+a {
+    color: rgb(115, 30, 79);;
+}
+.logo {
+    width: 30px;
+    height: 30px;
+}
